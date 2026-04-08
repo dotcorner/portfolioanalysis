@@ -18,7 +18,7 @@ A lightweight, **client-side** web app that matches your domain portfolio agains
 ## 📁 Required Input Files
 
 ### 1. `RetailStats_YYYYMMDD.csv`
-Sales data exported from your retail/registrar source. Expected columns:
+Sales data from the [NameBio RetailStats API](https://api.namebio.com/docs/#retailstats). Expected columns:
 
 | Column | Description |
 |---|---|
